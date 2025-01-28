@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0038-count-and-say) |
 | [0443-string-compression](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0520-detect-capital) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
