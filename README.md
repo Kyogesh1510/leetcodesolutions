@@ -14,6 +14,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0520-detect-capital) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -36,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -46,6 +49,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Math
 |  |
