@@ -35,6 +35,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
 ## Counting
 |  |
@@ -76,6 +78,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Matrix
 |  |
 | ------- |
