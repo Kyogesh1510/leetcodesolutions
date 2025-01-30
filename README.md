@@ -37,6 +37,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -87,8 +89,13 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
