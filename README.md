@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0443-string-compression](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0443-string-compression) |
 | [0520-detect-capital](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0520-detect-capital) |
+| [0812-rotate-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0812-rotate-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
@@ -93,6 +94,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 ## Heap (Priority Queue)
 |  |
