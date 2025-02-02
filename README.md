@@ -26,6 +26,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0042-trapping-rain-water](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
 |  |
