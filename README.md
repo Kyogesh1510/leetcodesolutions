@@ -19,6 +19,7 @@
 | [0520-detect-capital](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0812-rotate-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
@@ -36,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
@@ -49,6 +51,7 @@
 | [0001-two-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -79,6 +82,7 @@
 ## Counting
 |  |
 | ------- |
+| [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## Dynamic Programming
 |  |
