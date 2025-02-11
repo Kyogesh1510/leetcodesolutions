@@ -27,6 +27,7 @@
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
@@ -72,6 +73,7 @@
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Stack
 |  |
@@ -115,4 +117,8 @@
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
