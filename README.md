@@ -28,6 +28,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
 |  |
