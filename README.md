@@ -22,6 +22,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1547-destination-city) |
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -43,6 +44,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
+| [1547-destination-city](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -55,6 +57,7 @@
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1547-destination-city](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1547-destination-city) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Binary Search
