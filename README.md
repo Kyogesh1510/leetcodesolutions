@@ -39,6 +39,7 @@
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -57,6 +58,7 @@
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-destination-city](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1547-destination-city) |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
