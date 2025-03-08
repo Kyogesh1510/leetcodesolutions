@@ -51,6 +51,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -142,4 +143,5 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
+| [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
