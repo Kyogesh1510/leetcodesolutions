@@ -41,6 +41,7 @@
 | [0217-contains-duplicate](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
+| [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
