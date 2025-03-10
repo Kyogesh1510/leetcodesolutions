@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
+| [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Array
@@ -54,6 +56,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -126,6 +129,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
+| [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String Matching
