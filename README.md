@@ -10,6 +10,7 @@
 | [0443-string-compression](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Array
 |  |
 | ------- |
