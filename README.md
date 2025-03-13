@@ -54,6 +54,7 @@
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1524-string-matching-in-an-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1524-string-matching-in-an-array) |
@@ -102,6 +103,7 @@
 | [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
+## Geometry
+|  |
+| ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
