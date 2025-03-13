@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
