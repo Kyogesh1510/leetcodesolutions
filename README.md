@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -135,6 +136,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -168,4 +170,8 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0645-set-mismatch) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
