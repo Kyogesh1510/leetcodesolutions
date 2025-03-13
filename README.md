@@ -100,6 +100,7 @@
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -174,4 +175,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
