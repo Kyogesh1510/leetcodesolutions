@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
