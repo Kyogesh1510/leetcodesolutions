@@ -14,6 +14,7 @@
 | [0874-backspace-string-compare](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
@@ -69,6 +70,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
@@ -105,6 +107,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Math
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
