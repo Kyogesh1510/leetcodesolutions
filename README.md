@@ -14,6 +14,7 @@
 | [0874-backspace-string-compare](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0874-backspace-string-compare) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -37,6 +38,7 @@
 | [1666-make-the-string-great](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1666-make-the-string-great) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2032-largest-odd-number-in-string) |
