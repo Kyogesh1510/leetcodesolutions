@@ -76,6 +76,7 @@
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2342-minimum-average-difference](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2342-minimum-average-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -188,6 +189,7 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
+| [2342-minimum-average-difference](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2342-minimum-average-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
