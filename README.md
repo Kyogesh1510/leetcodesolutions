@@ -59,6 +59,7 @@
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0645-set-mismatch](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
+| [0777-toeplitz-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0777-toeplitz-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -151,6 +152,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0777-toeplitz-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Simulation
 |  |
