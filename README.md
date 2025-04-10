@@ -62,6 +62,7 @@
 | [0777-toeplitz-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0777-toeplitz-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -161,6 +162,7 @@
 | [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0874-backspace-string-compare) |
+| [1027-sum-of-even-numbers-after-queries](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1027-sum-of-even-numbers-after-queries) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
