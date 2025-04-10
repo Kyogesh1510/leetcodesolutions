@@ -57,6 +57,7 @@
 | [0217-contains-duplicate](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0498-diagonal-traverse](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
 | [0777-toeplitz-matrix](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0777-toeplitz-matrix) |
@@ -88,6 +89,7 @@
 | [0049-group-anagrams](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0645-set-mismatch) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -121,6 +123,7 @@
 | [0258-add-digits](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0319-bulb-switcher) |
+| [0523-continuous-subarray-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [1018-largest-perimeter-triangle](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1018-largest-perimeter-triangle) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1806-count-of-matches-in-tournament](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/1806-count-of-matches-in-tournament) |
@@ -189,6 +192,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/0724-find-pivot-index) |
 | [2102-find-the-middle-index-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2342-minimum-average-difference) |
