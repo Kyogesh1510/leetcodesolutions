@@ -80,6 +80,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2342-minimum-average-difference](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2342-minimum-average-difference) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Kyogesh1510/leetcodesolutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
